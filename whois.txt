@@ -1,58 +1,39 @@
 {
   "updated_date": [
-    "2011-07-20 00:00:00", 
-    "2015-06-12T10:38:52-0700"
+    "2016-08-05 00:00:00", 
+    "2016-05-03 10:46:58"
   ], 
   "status": [
     "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited", 
     "clientTransferProhibited https://icann.org/epp#clientTransferProhibited", 
     "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited", 
-    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited", 
-    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited", 
-    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited", 
-    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)", 
-    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)", 
-    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)", 
-    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)", 
-    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)", 
-    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+    "ok https://icann.org/epp#ok"
   ], 
-  "name": "Dns Admin", 
+  "name": "NAVER Corp.", 
   "dnssec": "unsigned", 
-  "city": "Mountain View", 
-  "expiration_date": [
-    "2020-09-14 00:00:00", 
-    "2020-09-13T21:00:00-0700"
-  ], 
-  "zipcode": "94043", 
+  "city": "Gyeonggi", 
+  "expiration_date": "2023-09-11 00:00:00", 
+  "zipcode": "463463", 
   "domain_name": [
-    "GOOGLE.COM", 
-    "google.com"
+    "NAVER.COM", 
+    "naver.com"
   ], 
-  "country": "US", 
-  "whois_server": "whois.markmonitor.com", 
-  "state": "CA", 
-  "registrar": "MarkMonitor, Inc.", 
-  "referral_url": "http://www.markmonitor.com", 
-  "address": "Please contact contact-admin@google.com, 1600 Amphitheatre Parkway", 
+  "country": "KR", 
+  "whois_server": "whois.PublicDomainRegistry.com", 
+  "state": null, 
+  "registrar": "Gabia, Inc.", 
+  "referral_url": "http://www.publicdomainregistry.com", 
+  "address": "6 Buljung-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, 463-867, Korea", 
   "name_servers": [
-    "NS1.GOOGLE.COM", 
-    "NS2.GOOGLE.COM", 
-    "NS3.GOOGLE.COM", 
-    "NS4.GOOGLE.COM", 
-    "ns1.google.com", 
-    "ns4.google.com", 
-    "ns2.google.com", 
-    "ns3.google.com"
+    "NS1.NAVER.COM", 
+    "NS2.NAVER.COM", 
+    "ns1.naver.com", 
+    "ns2.naver.com"
   ], 
-  "org": "Google Inc.", 
-  "creation_date": [
-    "1997-09-15 00:00:00", 
-    "1997-09-15T00:00:00-0700"
-  ], 
+  "org": "NAVER Corp.", 
+  "creation_date": "1997-09-12 00:00:00", 
   "emails": [
-    "abusecomplaints@markmonitor.com", 
-    "contact-admin@google.com", 
-    "dns-admin@google.com"
+    "white.4818@navercorp.com", 
+    "abuse@gabia.com"
   ]
 }
